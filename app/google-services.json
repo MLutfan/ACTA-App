@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828536822308",
+    "project_id": "acta-app-bc65e",
+    "storage_bucket": "acta-app-bc65e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828536822308:android:f92ab9d5b0498b5ffd16b1",
+        "android_client_info": {
+          "package_name": "id.antasari.acta_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzwjNx4EVoTkN9Q39XgB45YNwNfb90_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

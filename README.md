@@ -62,11 +62,17 @@ Aplikasi ini dibangun menggunakan **Modern Android Development** stack:
 
 | Home Screen | Mission Detail | Camera |
 |:---:|:---:|:---:|
-| *(Taruh screenshot disini)* | *(Taruh screenshot disini)* | *(Taruh screenshot disini)* |
+| <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/fef4440b-77f4-48f4-b630-eb70599a8a76" />
+ | <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/865e816f-5a67-480c-8a7e-e0a232c70b20" />
+ | <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/190d1ee9-351c-43f9-9390-871d511ff754" />
+ |
 
 | Feed | Shop | Profile |
 |:---:|:---:|:---:|
-| *(Taruh screenshot disini)* | *(Taruh screenshot disini)* | *(Taruh screenshot disini)* |
+| <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/c6d8d95d-5629-49c1-95dd-b8b19ae55b3a" />
+ | <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/bac75de6-eb5d-474b-a082-43b3a52087b2" />
+ | <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/fde1a727-72af-45c5-89d8-59a8b8fee0d9" />
+ |
 
 ---
 

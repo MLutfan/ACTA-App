@@ -62,17 +62,11 @@ Aplikasi ini dibangun menggunakan **Modern Android Development** stack:
 
 | Home Screen | Mission Detail | Camera |
 |:---:|:---:|:---:|
-| <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/7465f4d7-702d-448d-b901-647f5e0e72e9" />
- | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/8e94b8d5-bf33-4ff2-83a7-a89aea9f30e1" /> 
- | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/51505d2b-6df2-4e04-9d39-804275395a9c" />
- |
+| <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/7465f4d7-702d-448d-b901-647f5e0e72e9" /> | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/8e94b8d5-bf33-4ff2-83a7-a89aea9f30e1" /> | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/51505d2b-6df2-4e04-9d39-804275395a9c" /> |
 
 | Feed | Shop | Profile |
 |:---:|:---:|:---:|
-| <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/c317a3dc-4752-4705-b839-6cf108832dba" />
- | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/28ef8f69-9526-4e03-b4b2-cece5fbe1ff1" />
- | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/d4811be8-4e5c-445e-8695-3f0d512f2736" />
- |
+| <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/47bc5834-f9bd-4a4c-a740-f1e161c55463" /> |<img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/28ef8f69-9526-4e03-b4b2-cece5fbe1ff1" /> | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/d4811be8-4e5c-445e-8695-3f0d512f2736" /> |
 
 ---
 

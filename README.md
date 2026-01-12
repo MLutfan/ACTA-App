@@ -66,7 +66,7 @@ Aplikasi ini dibangun menggunakan **Modern Android Development** stack:
 
 | Feed | Shop | Profile |
 |:---:|:---:|:---:|
-| <img width="1211" height="2474" alt="image" src="https://github.com/user-attachments/assets/47bc5834-f9bd-4a4c-a740-f1e161c55463" /> |<img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/28ef8f69-9526-4e03-b4b2-cece5fbe1ff1" /> | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/d4811be8-4e5c-445e-8695-3f0d512f2736" /> |
+| <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/c3c9626e-25b9-4bb5-aaa1-c9d4ed57347c" /> |<img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/28ef8f69-9526-4e03-b4b2-cece5fbe1ff1" /> | <img width="303" height="618" alt="image" src="https://github.com/user-attachments/assets/d4811be8-4e5c-445e-8695-3f0d512f2736" /> |
 
 ---
 
